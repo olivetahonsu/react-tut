@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is long established fact that a reader will be distracted",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "The Church",
+      "body": "The church is the body of Christ....\n\nhe purchased her by His blood...\n\nHe is the Head of the church",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "The Church",
+      "body": "The church is the body of Christ....\n\nhe purchased her by His blood...\n\nHe is the Head of the church",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
