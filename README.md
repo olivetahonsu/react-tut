@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React-Tut
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a blog created with react.js
 
 ## Available Scripts
 
